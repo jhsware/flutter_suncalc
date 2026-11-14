@@ -1,0 +1,25 @@
+filesystem:
+  - ./lib
+  - ./test
+  - ./docs
+  - ./ios
+  - ./android
+  - ./pubspec.yaml
+  - ./analysis_options.yaml
+  - ./README.md
+  - ./CHANGELOG.md
+  - ./.env.in
+  - ./.gitignore
+git:
+  - ./lib
+  - ./test
+  - ./docs
+  - ./ios
+  - ./android
+  - ./pubspec.yaml
+  - ./analysis_options.yaml
+  - ./README.md
+  - ./CHANGELOG.md
+  - ./.env.in
+  - ./.gitignore
+  - ./pubspec.lock
